@@ -1,0 +1,219 @@
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+K:\work\ebyte\netcfg\netcfg\bin\Debug\netcfg.exe
+K:\work\ebyte\netcfg\netcfg\bin\Debug\netcfg.pdb
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.exe
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.pdb
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.exe
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.pdb
+N:\work\ebyte\netcfg\netcfg\bin\Debug\netcfg.exe
+N:\work\ebyte\netcfg\netcfg\bin\Debug\netcfg.pdb
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+N:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+D:\Work\ebyte\netcfg\netcfg\bin\Debug\netcfg.exe
+D:\Work\ebyte\netcfg\netcfg\bin\Debug\netcfg.pdb
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.exe
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.pdb
+D:\Work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+K:\work\ebyte\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.exe
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\bin\Debug\netcfg.exe
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\bin\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+C:\Users\晨雨\Desktop\netcfg_src_201710300907新\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\bin\Debug\netcfg.exe
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\bin\Debug\netcfg.pdb
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.exe
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\bin\Debug\netcfg.exe.config
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\bin\Debug\netcfg.exe
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\bin\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.exe
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\netcfg\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\bin\Debug\netcfg.exe.config
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\bin\Debug\netcfg.exe.config
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\bin\Debug\netcfg.exe
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\bin\Debug\netcfg.pdb
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.exe
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.pdb
+G:\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\bin\Debug\netcfg.exe.config
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\bin\Debug\netcfg.exe
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\bin\Debug\netcfg.pdb
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.Form2.resources
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.Form3.resources
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.exe
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.pdb
+D:\工作资料\个人资料\项目资料\E810-TTL上位机\串口转以太网\netcfg_V1.1\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\bin\Debug\netcfg.exe.config
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\bin\Debug\netcfg.exe
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\bin\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.exe
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+C:\Users\晨雨\Desktop\E810V1.2\netcfg_V1.2\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\bin\Debug\netcfg.exe.config
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\bin\Debug\netcfg.exe
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\bin\Debug\netcfg.pdb
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.exe
+C:\Users\Administrator\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.pdb
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\bin\Debug\netconfig_V1.3.exe.config
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\bin\Debug\netconfig_V1.3.exe
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\bin\Debug\netconfig_V1.3.pdb
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netconfig_V1.3.exe
+C:\Users\晨雨\Desktop\netcfg_V1.3\netcfg\netcfg\obj\Debug\netconfig_V1.3.pdb
+G:\工作临时资料\Program\PC\RF配置软件源码\Net\netcfg_V1.3\netcfg\netcfg\bin\Debug\netconfig_V1.3.exe.config
+G:\工作临时资料\Program\PC\RF配置软件源码\Net\netcfg_V1.3\netcfg\netcfg\obj\Debug\netconfig_V1.3.exe
+G:\工作临时资料\Program\PC\RF配置软件源码\Net\netcfg_V1.3\netcfg\netcfg\obj\Debug\netconfig_V1.3.pdb
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\bin\Debug\netconfig_V1.4.exe.config
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\bin\Debug\netconfig_V1.4.exe
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\bin\Debug\netconfig_V1.4.pdb
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netconfig_V1.4.exe
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4\netcfg_V1.4\netcfg\netcfg\obj\Debug\netconfig_V1.4.pdb
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\bin\Debug\netconfig_V1.4.exe.config
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\bin\Debug\netconfig_V1.4.exe
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\bin\Debug\netconfig_V1.4.pdb
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netconfig_V1.4.exe
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.4 2018-04-12\netcfg_V1.4 2018-04-12\netcfg\netcfg\obj\Debug\netconfig_V1.4.pdb
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.5.exe.config
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.5.exe
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.5.pdb
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netconfig_V1.5.exe
+D:\亿佰特模块资料\E70-DTU(433NW30-ETH) V1.0软件资料\E70-DTU(433NW30-ETH) V1.0软件资料\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netconfig_V1.5.pdb
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.5.exe.config
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.5.exe
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.5.pdb
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.cache
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netconfig_V1.5.exe
+D:\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netconfig_V1.5.pdb
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.cache
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csproj.CoreCompileInputs.cache
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.6.exe.config
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.6.exe
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\bin\Debug\netconfig_V1.6.pdb
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netcfg.csprojAssemblyReference.cache
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netconfig_V1.6.exe
+E:\workspace\以太网上位机最终版本\netcfg_V1.5 2018-06-01\netcfg_V1.5 2018-06-01\netcfg\netcfg\obj\Debug\netconfig_V1.6.pdb
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\bin\Debug\netconfig_V1.6.exe.config
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netconfig_V1.6.exe
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netconfig_V1.6.pdb
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\bin\Debug\netconfig_V1.6.exe
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\bin\Debug\netconfig_V1.6.pdb
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.csprojResolveAssemblyReference.cache
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.E70.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.HomePage.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.netForm.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.netForm_Eth.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.netForm_Mac.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.netForm_Universal.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.Properties.Resources.resources
+D:\netcfg_V1.6_2018-08-15\netcfg\netcfg\obj\Debug\netcfg.csproj.GenerateResource.Cache

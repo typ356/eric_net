@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="netcfg">
+</Property><Property Name="解决方案文件" Value="N:\work\ebyte\netcfg\netcfg.sln">
+</Property><Property Name="用户选项文件" Value="N:\work\ebyte\netcfg\netcfg.suo">
+</Property><Property Name="Date" Value="2017年9月16日">
+</Property><Property Name="Time" Value="0:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="netcfg.sln" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg.sln">
+</Event><Event ErrorLevel="0" Project="" Source="netcfg.suo" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg.suo">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\netcfg.csproj" Description="项目文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\netcfg.csproj">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Form1.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Form1.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Form1.Designer.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Form2.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Form2.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Form2.Designer.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\netdata.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\netdata.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Program.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Program.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Properties\AssemblyInfo.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Properties\Resources.Designer.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Properties\Settings.Designer.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\udpserver.cs" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\udpserver.cs">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Properties\Settings.settings" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Form1.resx" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Form1.resx">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Form2.resx" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Form2.resx">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\Properties\Resources.resx" Description="文件已成功备份为 N:\work\ebyte\netcfg1\Backup\netcfg\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\netcfg.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="netcfg" Source="netcfg\netcfg.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="netcfg.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="netcfg.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="netcfg" Source="netcfg\netcfg.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
